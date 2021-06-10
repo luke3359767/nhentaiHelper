@@ -1,2 +1,5 @@
 # nhentaiHelper
-Watching hentai more convenient
+
+## Develop Log
+Jun 6 2021: Started this project.
+
